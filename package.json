@@ -1,0 +1,21 @@
+{
+  "name": "pactum-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testes em GraphQL com P"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnasxd/Testes-em-APIs-GraphQL.git"
+  },
+  "keywords": [],
+  "author": "guilhermeaugusto",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gnasxd/Testes-em-APIs-GraphQL/issues"
+  },
+  "homepage": "https://github.com/gnasxd/Testes-em-APIs-GraphQL#readme"
+}
