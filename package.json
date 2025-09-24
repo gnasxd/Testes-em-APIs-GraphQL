@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Testes em GraphQL com P"
+    "test": "mocha ./test/**/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/gnasxd/Testes-em-APIs-GraphQL/issues"
   },
-  "homepage": "https://github.com/gnasxd/Testes-em-APIs-GraphQL#readme"
+  "homepage": "https://github.com/gnasxd/Testes-em-APIs-GraphQL#readme",
+  "devDependencies": {
+    "mocha": "^11.7.2",
+    "pactum": "^3.8.0"
+  },
+  "dependencies": {
+    "pactum-matchers": "^1.1.7"
+  }
 }
